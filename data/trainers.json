@@ -58,7 +58,7 @@
       {
         "name": "Gengar",
         "sprite": "sprites/pokemon/gengar.gif",
-        "types": ["Water", "Ice"]
+        "types": ["Ghost", "Poison"]
       }
     ]
   },
