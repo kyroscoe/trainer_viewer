@@ -1,0 +1,462 @@
+[
+  {
+    "name": "Lorelei",
+    "sprite": "sprites/trainers/lorelei.png",
+    "team": [
+      {
+        "name": "Jynx",
+        "sprite": "sprites/pokemon/jynx.gif",
+        "types": ["Ice", "Psychic"]
+      },
+      {
+        "name": "Slowbro",
+        "sprite": "sprites/pokemon/slowbro.gif",
+        "types": ["Water", "Psychic"]
+      },
+      {
+        "name": "Cloyster",
+        "sprite": "sprites/pokemon/cloyster.gif",
+        "types": ["Water", "Ice"]
+      }
+    ]
+  },
+  {
+    "name": "Bruno",
+    "sprite": "sprites/trainers/bruno.png",
+    "team": [
+      {
+        "name": "Hitmonlee",
+        "sprite": "sprites/pokemon/hitmonlee.gif",
+        "types": ["Fighting"]
+      },
+      {
+        "name": "Hitmonchan",
+        "sprite": "sprites/pokemon/hitmonchan.gif",
+        "types": ["Fighting"]
+      },
+      {
+        "name": "Machamp",
+        "sprite": "sprites/pokemon/machamp.gif",
+        "types": ["Fighting"]
+      }
+    ]
+  },
+  {
+    "name": "Agatha",
+    "sprite": "sprites/trainers/agatha.png",
+    "team": [
+      {
+        "name": "Arbok",
+        "sprite": "sprites/pokemon/arbok.gif",
+        "types": ["Poison", "Dark"]
+      },
+      {
+        "name": "Weezing",
+        "sprite": "sprites/pokemon/weezing.gif",
+        "types": ["Poison"]
+      },
+      {
+        "name": "Gengar",
+        "sprite": "sprites/pokemon/gengar.gif",
+        "types": ["Water", "Ice"]
+      }
+    ]
+  },
+  {
+    "name": "Lance",
+    "sprite": "sprites/trainers/lance.png",
+    "team": [
+      {
+        "name": "Aerodactyl",
+        "sprite": "sprites/pokemon/aerodactyl.gif",
+        "types": ["Rock", "Flying"]
+      },
+      {
+        "name": "Charizard",
+        "sprite": "sprites/pokemon/charizard.gif",
+        "types": ["Fire", "Flying"]
+      },
+      {
+        "name": "Dragonite",
+        "sprite": "sprites/pokemon/Dragonite.gif",
+        "types": ["Dragon", "Flying"]
+      }
+    ]
+  },
+  {
+    "name": "Blue",
+    "sprite": "sprites/trainers/blue.png",
+    "team": [
+      {
+        "name": "Pidgeot",
+        "sprite": "sprites/pokemon/pidgeot.gif",
+        "types": ["Normal", "Flying"]
+      },
+      {
+        "name": "Alakazam",
+        "sprite": "sprites/pokemon/alakazam.gif",
+        "types": ["Psychic"]
+      },
+      {
+        "name": "Exeggutor",
+        "sprite": "sprites/pokemon/exeggutor.gif",
+        "types": ["Grass", "Psychic"]
+      },
+      {
+        "name": "Arcanine",
+        "sprite": "sprites/pokemon/arcanine.gif",
+        "types": ["Fire"]
+      },
+      {
+        "name": "Blastoise",
+        "sprite": "sprites/pokemon/blastoise.gif",
+        "types": ["Water"]
+      }
+    ]
+  },
+  {
+    "name": "Will",
+    "sprite": "sprites/trainers/will.png",
+    "team": [
+      {
+        "name": "Xatu",
+        "sprite": "sprites/pokemon/xatu.gif",
+        "types": ["Psychic", "Flying"]
+      },
+      {
+        "name": "Girafarig",
+        "sprite": "sprites/pokemon/girafarig.gif",
+        "types": ["Normal", "Psychic"]
+      },
+      {
+        "name": "Espeon",
+        "sprite": "sprites/pokemon/espeon.gif",
+        "types": ["Psychic"]
+      }
+    ]
+  },
+  {
+    "name": "Koga",
+    "sprite": "sprites/trainers/koga.png",
+    "team": [
+      {
+        "name": "Ariados",
+        "sprite": "sprites/pokemon/ariados.gif",
+        "types": ["Bug", "Poison"]
+      },
+      {
+        "name": "Forretress",
+        "sprite": "sprites/pokemon/forretress.gif",
+        "types": ["Bug", "Steel"]
+      },
+      {
+        "name": "Crobat",
+        "sprite": "sprites/pokemon/crobat.gif",
+        "types": ["Poison", "Flying"]
+      }
+    ]
+  },
+  {
+    "name": "Bruno",
+    "sprite": "sprites/trainers/bruno2.png",
+    "team": [
+      {
+        "name": "Hitmontop",
+        "sprite": "sprites/pokemon/hitmontop.gif",
+        "types": ["Fighting"]
+      },
+      {
+        "name": "Heracross",
+        "sprite": "sprites/pokemon/heracross.gif",
+        "types": ["Bug", "Fighting"]
+      },
+      {
+        "name": "Steelix",
+        "sprite": "sprites/pokemon/steelix.gif",
+        "types": ["Steel", "Ground"]
+      }
+    ]
+  },
+  {
+    "name": "Karen",
+    "sprite": "sprites/trainers/karen.png",
+    "team": [
+      {
+        "name": "Murkrow",
+        "sprite": "sprites/pokemon/murkrow.gif",
+        "types": ["Dark", "Flying"]
+      },
+      {
+        "name": "Umbreon",
+        "sprite": "sprites/pokemon/umbreon.gif",
+        "types": ["Dark"]
+      },
+      {
+        "name": "Houndoom",
+        "sprite": "sprites/pokemon/houndoom.gif",
+        "types": ["Dark", "Fire"]
+      }
+    ]
+  },
+  {
+    "name": "Lance",
+    "sprite": "sprites/trainers/lance2.png",
+    "team": [
+      {
+        "name": "Feraligatr",
+        "sprite": "sprites/pokemon/feraligatr.gif",
+        "types": ["Water"]
+      },
+      {
+        "name": "Kingdra",
+        "sprite": "sprites/pokemon/kingdra.gif",
+        "types": ["Water", "Dragon"]
+      },
+      {
+        "name": "Ampharos",
+        "sprite": "sprites/pokemon/ampharos.gif",
+        "types": ["Electric"]
+      },
+	  {
+        "name": "Dragonite",
+        "sprite": "sprites/pokemon/dragonite.gif",
+        "types": ["Dragon", "Flying"]
+      },
+      {
+        "name": "Tyranitar",
+        "sprite": "sprites/pokemon/tyranitar.gif",
+        "types": ["Rock", "Dark"]
+      }	  
+    ]
+  },
+  {
+    "name": "Sidney",
+    "sprite": "sprites/trainers/sidney.png",
+    "team": [
+      {
+        "name": "Shiftry",
+        "sprite": "sprites/pokemon/shiftry.gif",
+        "types": ["Grass", "Dark"]
+      },
+      {
+        "name": "Sharpedo",
+        "sprite": "sprites/pokemon/sharpedo.gif",
+        "types": ["Water", "Dark"]
+      },
+      {
+        "name": "Absol",
+        "sprite": "sprites/pokemon/absol.gif",
+        "types": ["Dark"]
+      }
+    ]
+  },
+  {
+    "name": "Phoebe",
+    "sprite": "sprites/trainers/phoebe.png",
+    "team": [
+      {
+        "name": "Dusclops",
+        "sprite": "sprites/pokemon/dusclops.gif",
+        "types": ["Ghost"]
+      },
+      {
+        "name": "Sableye",
+        "sprite": "sprites/pokemon/sableye.gif",
+        "types": ["Dark", "Ghost"]
+      },
+      {
+        "name": "Banette",
+        "sprite": "sprites/pokemon/absol.gif",
+        "types": ["Ghost"]
+      }
+    ]
+  },
+  {
+    "name": "Glacia",
+    "sprite": "sprites/trainers/glacia.png",
+    "team": [
+      {
+        "name": "Glalie",
+        "sprite": "sprites/pokemon/glalie.gif",
+        "types": ["Ice"]
+      },
+      {
+        "name": "Walrein",
+        "sprite": "sprites/pokemon/walrein.gif",
+        "types": ["Ice", "Water"]
+      },
+      {
+        "name": "Huntail",
+        "sprite": "sprites/pokemon/huntail.gif",
+        "types": ["Water", "Dark"]
+      }
+    ]	  
+  },
+  {
+    "name": "Drake",
+    "sprite": "sprites/trainers/drake.png",
+    "team": [
+      {
+        "name": "Sceptile",
+        "sprite": "sprites/pokemon/sceptile.gif",
+        "types": ["Grass", "Dragon"]
+      },
+      {
+        "name": "Flygon",
+        "sprite": "sprites/pokemon/flygon.gif",
+        "types": ["Ground", "Dragon"]
+      },
+      {
+        "name": "Salamence",
+        "sprite": "sprites/pokemon/salamence.gif",
+        "types": ["Dragon", "Flying"]
+      }
+    ]
+  },
+  {
+    "name": "Steven",
+    "sprite": "sprites/trainers/steven.png",
+    "team": [
+      {
+        "name": "Armaldo",
+        "sprite": "sprites/pokemon/armaldo.gif",
+        "types": ["Rock", "Bug"]
+      },
+      {
+        "name": "Cradily",
+        "sprite": "sprites/pokemon/cradily.gif",
+        "types": ["Rock", "Grass"]
+      },
+      {
+        "name": "Skarmory",
+        "sprite": "sprites/pokemon/skarmory.gif",
+        "types": ["Steel", "Flying"]
+      },
+      {
+        "name": "Aggron",
+        "sprite": "sprites/pokemon/aggron.gif",
+        "types": ["Steel", "Rock"]
+      },
+      {
+        "name": "Metagross",
+        "sprite": "sprites/pokemon/metagross.gif",
+        "types": ["Steel", "Psychic"]
+      }
+    ]
+  },
+  {
+    "name": "Aaron",
+    "sprite": "sprites/trainers/aaron.png",
+    "team": [
+      {
+        "name": "Vespiquen",
+        "sprite": "sprites/pokemon/vespiquen.gif",
+        "types": ["Bug", "Flying"]
+      },
+      {
+        "name": "Drapion",
+        "sprite": "sprites/pokemon/drapion.gif",
+        "types": ["Poison", "Dark"]
+      },
+      {
+        "name": "Yanma",
+        "sprite": "sprites/pokemon/yanma.gif",
+        "types": ["Bug", "Flying"]
+      }
+    ]
+  },
+  {
+    "name": "Bertha",
+    "sprite": "sprites/trainers/bertha.png",
+    "team": [
+      {
+        "name": "Hippowdon",
+        "sprite": "sprites/pokemon/hippowdon.gif",
+        "types": ["Ground"]
+      },
+      {
+        "name": "Rhyperior",
+        "sprite": "sprites/pokemon/rhyperior.gif",
+        "types": ["Ground", "Rock"]
+      },
+      {
+        "name": "Mamoswine",
+        "sprite": "sprites/pokemon/mamoswine.gif",
+        "types": ["Ice", "Ground"]
+      }
+    ]
+  },
+  {
+    "name": "Flint",
+    "sprite": "sprites/trainers/flint.png",
+    "team": [
+      {
+        "name": "Infernape",
+        "sprite": "sprites/pokemon/infernape.gif",
+        "types": ["Fire", "Fighting"]
+      },
+      {
+        "name": "Drifblim",
+        "sprite": "sprites/pokemon/drifblim.gif",
+        "types": ["Ghost", "Flying"]
+      },
+      {
+        "name": "Magmortar",
+        "sprite": "sprites/pokemon/magmortar.gif",
+        "types": ["Fire"]
+      }
+    ]
+  },
+  {
+    "name": "Lucian",
+    "sprite": "sprites/trainers/lucian.png",
+    "team": [
+      {
+        "name": "Bronzong",
+        "sprite": "sprites/pokemon/bronzong.gif",
+        "types": ["Steel", "Psychic"]
+      },
+      {
+        "name": "Gallade",
+        "sprite": "sprites/pokemon/gallade.gif",
+        "types": ["Psychic", "Fighting"]
+      },
+      {
+        "name": "Mismagius",
+        "sprite": "sprites/pokemon/mismagius.gif",
+        "types": ["Ghost", "Fairy"]
+      }
+    ]
+  },
+  {
+    "name": "Cynthia",
+    "sprite": "sprites/trainers/cynthia.png",
+    "team": [
+      {
+        "name": "Spiritomb",
+        "sprite": "sprites/pokemon/spiritomb.gif",
+        "types": ["Ghost", "Dark"]
+      },
+      {
+        "name": "Roserade",
+        "sprite": "sprites/pokemon/roserade.gif",
+        "types": ["Grass", "Poison"]
+      },
+      {
+        "name": "Lucario",
+        "sprite": "sprites/pokemon/lucario.gif",
+        "types": ["Fighting", "Steel"]
+      },
+      {
+        "name": "Garchomp",
+        "sprite": "sprites/pokemon/garchomp.gif",
+        "types": ["Dragon", "Ground"]
+      },
+      {
+        "name": "Togekiss",
+        "sprite": "sprites/pokemon/togekiss.gif",
+        "types": ["Fairy", "Flying"]
+	  }
+    ]
+  }
+]
